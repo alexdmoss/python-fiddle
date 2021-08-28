@@ -1,2 +1,3 @@
 # python-fiddle
-Trying snippets of python for fun and profit
+
+Fiddling with bits of python code. To learn stuff.
